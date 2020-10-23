@@ -1,0 +1,5 @@
+ローカルの内容をGitHubにpushする流れ
+git addしてgit commitしてgit push
+
+GitHubで人のリポジトリを自分のアカウントのところにコピーする操作
+fork
